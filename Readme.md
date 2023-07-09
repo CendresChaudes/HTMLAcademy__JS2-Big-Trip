@@ -13,4 +13,4 @@
 
 ---
 
-Ссылка на проект: [https://cendreschaudes.github.io/HTMLAcademy__JS2-BigTrip/]
+Ссылка на проект: https://cendreschaudes.github.io/HTMLAcademy__JS2-BigTrip/
